@@ -1,4 +1,4 @@
-# TACOSAURUS DAO
+# TACOSAURUS DAO <a href="https://tacosaurus.vercel.app/" target="_blank">Dive In</a>
 ~Everyone with a CryptoDevs NFT can vote for or against the active proposals
 ~Each NFT counts as one vote for each proposal
 ~Voter cannot vote multiple times on the same proposal with the same NFT
@@ -17,3 +17,5 @@ The project came together flawlessly as a Decentralized Autonomous Organziation 
 
 #### Future Projects. 
 A little bit of humour goes a long way these days but all jokes aside I'm working very hard to learn these things so I can start my own DAO that will be a part of Enigmatic AI ~ My passion project aimed at guiding motivated hard working people that are at high risk of losing their lifetime occupations due to automation at a rate we've never seen before & helping them transition into the future of labor which is theorized to be gig-like, creator oriented & digital.  
+
+<a href='https://tacosaurus.vercel.app/' target='_blank'><img src='https://i.postimg.cc/4yd8Q0BB/tacoTaco.png' border='0' alt='memory-Game'/></a>

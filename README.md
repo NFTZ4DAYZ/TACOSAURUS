@@ -14,7 +14,7 @@
 ~Web3Modal library. Web3Modal is an easy to use library to help developers easily allow their users to connect to your dApps with all sorts of different wallets. By default Web3Modal Library supports injected providers like (Metamask, Dapper, Gnosis Safe, Frame, Web3 Browsers, etc) and WalletConnect
 
 ### Overview/Notes
-The project came together flawlessly as a Decentralized Autonomous Organziation which provides NFT holders the abililty to craft & vote on proposals regarding the investment of funds into another contract which represents an NFT marketplace. Of course I added my personal touch when it came to bulding the frontend HTML & CSS a modification on the LW3 Design.  
+The project came together flawlessly as a Decentralized Autonomous Organziation which provides NFT holders the abililty to craft & vote on proposals regarding the investment of funds into another contract which represents an NFT marketplace. Of course I added my personal touch when it came to bulding the frontend HTML & CSS, modifying the LW3 Design.  
  
 
 <a href='https://tacosaurus.vercel.app/' target='_blank'><img src='https://i.postimg.cc/4yd8Q0BB/tacoTaco.png' border='0' alt='DAO'/></a>
